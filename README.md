@@ -29,9 +29,9 @@ Deployment on AWS:
 
 <br />
 
-->**Use extract_data.ipynb to get the data from webpage and the dict. to be used for analysis in data_analysis.ipynb.**
+->**Use extract_data.ipynb to get the data from webpage and save them in dictionaries- which are used for analysis in data_analysis.ipynb.**
 
 • In extract_data.ipynb you need to provide some input like the bussiness type or whether you want to save data in dict., etc.
 
-• The data_analysis.ipynb is being called in the end of extract_data.ipynb, for the bussiness type I worked on, i.e. real estate & immobilier. The data_analysis.ipynb calls these two dictionaries: real_estate_dict.xlsx. and immobilier_dict.xlsx.
+• The data_analysis.ipynb is based on the bussiness type I worked on (i.e. real estate & immobilier) and it calls these two dictionaries: real_estate_dict.xlsx. and immobilier_dict.xlsx.
 
