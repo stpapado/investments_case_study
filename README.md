@@ -16,7 +16,7 @@ Business understanding:
 - goal
 Data acquisition:
 - data sources
-- !!data acquisition pipeline 
+- data acquisition pipeline 
 - data environment
 Data understanding:
 - cleaning and wrangling
@@ -26,3 +26,6 @@ Data visualization
 Deployment on AWS:
 - designing the data pipeline
 - maintaining the data pipeline
+
+-> Use extract_data.ipynb to get the data from webpage and the dict. to be used for analysis in data_analysis.ipynb. 
+You need to provide some input like the name of the bussiness type or whether you want to save data in dictionaries, etc.
